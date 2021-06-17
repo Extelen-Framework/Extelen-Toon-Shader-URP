@@ -1,8 +1,8 @@
 {
   "name": "com.extelen.toonshader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "[ETL] Toon Shader (URP)",
-  "description": "A toon shader that takes a maximum of 4 additional lights, shadows, and a directional light.",
+  "description": "A toon shader that takes additional lights, shadows, and a directional light.",
   "unity": "2020.3", 
   "dependencies": {
   },
